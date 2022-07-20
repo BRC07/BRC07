@@ -39,6 +39,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/BRC/BRC/blob/output/snake.svg" alt="Snake animation" />
-
-###
