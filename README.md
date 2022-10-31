@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I live in Florianópolis, Brazil.<br>I'm a full-stack developer.<br>Currently studying HTML, CSS and Javascript.<br>Im also studying .NET, software architecture and software testing.</h2>
+<h2 align="left">I live in Florianópolis, Brazil.<br>I'm QA Analyst.<br>Currently studying TDD, BDD and Java.<br>Im also studying SQL, software architecture and software testing.</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/brcdeveloper/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunorodriguesc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
